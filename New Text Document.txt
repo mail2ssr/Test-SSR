@@ -1,3 +1,7 @@
 this is test notepad file
 new change in file
+<<<<<<< HEAD
 sanjeev singh rawat
+=======
+no. 3 file added
+>>>>>>> 1d12d5c8c93df87bd745de144b37b1bd298af769
